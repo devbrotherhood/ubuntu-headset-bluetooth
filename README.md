@@ -7,7 +7,7 @@ Bash script for using Ubuntu headset with A2DP mode Bluetooth connection
 All dependencies are inside `src/install.sh` file.
 
 ```command
-    sudo bash src/install.sh
+sudo bash src/install.sh
 ```
 
 ## Restart Bluetooth Service
